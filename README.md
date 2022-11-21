@@ -31,7 +31,10 @@ __As a developer, for the last couple of years, I was developed various kinds of
 ---
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/fahim-muntasir-6020a5255//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/coder27)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/fahim2786910)  
 
----
+
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fahim27&show_icons=true&count_private=false)   -->
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fahim27)  
 
 ![Profile views](https://gpvc.arturio.dev/fahim27)
 

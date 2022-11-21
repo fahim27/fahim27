@@ -34,8 +34,12 @@ __As a developer, for the last couple of years, I was developed various kinds of
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fahim27&show_icons=true&count_private=false)   -->
 
+### Statics
+---
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fahim27)  
 
+### Visitor
+---
 ![Profile views](https://gpvc.arturio.dev/fahim27)
 
 ---  

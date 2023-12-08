@@ -6,7 +6,7 @@
 
 ### About me
 ---
-__As a developer, for the last couple of years, I was developed various kinds of projects under my company & my personal clients. Notable among them are Bulk email marketing applications, Bulk SMS marketing Applications,eCommerce projects, Money exchange projects, IBanking Application cryptocurrency exchange applications & a lot of projects. I always try to write clean, understandable & secure code for any project.__
+__As a developer, for the last couple of years, I have developed various projects under my company & my clients. Notable among them are Bulk email marketing applications, Bulk SMS marketing Applications,eCommerce projects, Money exchange projects, IBanking Application cryptocurrency exchange applications & a lot of projects. I always try to write clean, understandable & secure code for any project.__
 
 ### My Skills
 ---

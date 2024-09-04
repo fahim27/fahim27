@@ -12,7 +12,7 @@ __As a developer, for the last couple of years, I have developed various project
 - JavaScript
 - MySQL
 - Laravel
-- Vue js
+- React js
 - jQuery
 - Bootstrap
 - Html & Css

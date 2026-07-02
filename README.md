@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Fahim Muntasir
-### PHP & JavaScript Developer
+### Software Developer
 
 ### About me
 

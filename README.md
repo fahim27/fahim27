@@ -3,14 +3,17 @@
 
 ### About me
 
-As a developer, for the last couple of years, I have developed various projects under my company & my clients. Notable among them are Bulk email marketing applications, Bulk SMS marketing applications, eCommerce projects, Money exchange projects, IBanking applications, cryptocurrency exchange applications, & a lot of other projects. I always try to write clean, understandable & secure code for any project.
+Full Stack Software Engineer with **6 years of experience** designing and building scalable web applications using **PHP, Laravel, JavaScript, React.js, and Vue.js.** Proven track record leading Agile development teams, architecting REST APIs, and delivering production-grade software for global clients, including a crypto trading platform with 300 plus CodeCanyon sales. Skilled in performance optimization, system design, and end-to-end project delivery from planning through deployment.
 
-### My Skills
+
+### Core Skills
 
 - PHP
 - JavaScript
 - MySQL
 - Laravel
+- Reactjs
+- Nextjs
 - Vue.js
 - jQuery
 - Bootstrap

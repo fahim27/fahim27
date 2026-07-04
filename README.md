@@ -39,13 +39,14 @@ My core strength lies in backend engineering with Laravel, where I focus on desi
 
 ## 🛠 Tech Stack
 
-| Area | Tools |
+| Area | Skills |
 | --- | --- |
-| Backend | Laravel, PHP, Node.js, Express.js |
-| Frontend | React.js, Next.js, Vue.js, JavaScript, TypeScript |
-| Mobile | Flutter |
-| Database | MySQL, PostgreSQL |
-| Tools | Git, GitHub, Docker, Postman |
+| Languages & Database | PHP, JavaScript, SQL, MySQL |
+| Frameworks & Libraries | Laravel, React.js, Vue.js, Next.js, jQuery, Bootstrap |
+| Backend & System Design | REST API Development, API Integration, Redis, Caching Strategies, Database Optimization, Performance Optimization, System Design, Design Patterns, Software Architecture, Test Driven Development (TDD) |
+| AI Tools | Claude, Codex, Windsurf, Google Antigravity |
+| Tools & Platforms | Git, GitHub, VS Code, Unit Testing, Feature Testing, VPS Deployment, cPanel |
+| Leadership & Collaboration | Team Leadership, Client Communication, Agile Development, Project Management, Trello Management |
 
 ---
 

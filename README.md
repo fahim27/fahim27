@@ -2,9 +2,11 @@
 
 # 👋 Hi, I'm Fahim Muntasir
 
-### Senior Software Engineer | Backend-Focused | Laravel Developer
+### Senior Backend Developer  | Laravel | Node.js |  AI Automation | N8N
 
-I build scalable backend systems and modern web applications with a focus on clean architecture, performance, and long-term maintainability.
+Full Stack Software Engineer with 6+ years of experience designing and building scalable web applications, REST APIs, AI-powered solutions, and workflow automation systems. Experienced with PHP, Laravel, Node.js, JavaScript, React.js, Vue.js, Next.js, AI automation, and n8n, delivering secure, high-performance software for startups and enterprise clients.
+
+Proven track record leading Agile development teams, architecting scalable backend systems, integrating third-party APIs, and building production-grade applications, including a crypto trading platform with 300+ CodeCanyon sales. Passionate about leveraging AI, intelligent automation, and modern software architecture to streamline business processes, improve efficiency, and deliver scalable digital products.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fahim27/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>

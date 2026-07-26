@@ -4,6 +4,7 @@
 
 ### Senior Backend Developer  | Laravel | Node.js |  AI Automation | N8N
 
+####I build scalable web applications and AI automation solutions with **Laravel, Node.js, and n8n**.
 
 
 <p align="center">

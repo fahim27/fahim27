@@ -29,47 +29,51 @@ Proven track record leading Agile development teams, architecting scalable backe
 
 ## 🚀 What I Build
 
-- Backend architecture and system design
-- Laravel and PHP application development
-- Secure REST API development
-- Database design, optimization, and performance tuning
-- Modern frontend experiences with React, Next.js, and Vue
-- SaaS platforms, integrations, and production-ready deployments
+* AI automation & workflow automation with **n8n**
+* Scalable backend systems with **Laravel** & **Node.js**
+* Secure REST APIs & third-party integrations
+* React, Next.js & Vue.js web applications
+* SaaS products & production-ready deployments
+* Database design, optimization & performance tuning
+
 
 ---
 
 ## 🛠 Tech Stack
 
-| Area | Skills |
-| --- | --- |
-| Languages & Database | PHP, JavaScript, SQL, MySQL |
-| Frameworks & Libraries | Laravel, React.js, Vue.js, Next.js, jQuery, Bootstrap |
-| Backend & System Design | REST API Development, API Integration, Redis, Caching Strategies, Database Optimization, Performance Optimization, System Design, Design Patterns, Software Architecture, Test Driven Development (TDD) |
-| AI Tools | Claude, Codex, Windsurf, Google Antigravity |
-| Tools & Platforms | Git, GitHub, VS Code, Unit Testing, Feature Testing, VPS Deployment, cPanel |
-| Leadership & Collaboration | Team Leadership, Client Communication, Agile Development, Project Management, Trello Management |
+| Area                | Skills                                                                               |
+| ------------------- | ------------------------------------------------------------------------------------ |
+| **Languages**       | PHP, JavaScript, Node.js, SQL                                                        |
+| **Frameworks**      | Laravel, React.js, Next.js, Vue.js, Bootstrap                                        |
+| **Database**        | MySQL, Redis                                                                         |
+| **Backend**         | REST APIs, API Integration, System Design, Design Patterns, Performance Optimization |
+| **AI & Automation** | AI Automation, n8n, Workflow Automation, LLM Integration                             |
+| **Tools**           | Git, GitHub, Docker, VS Code, cPanel, VPS                                            |
+| **Collaboration**   | Agile, Team Leadership, Client Communication                                         |
+
 
 ---
 
 ## 🎯 Core Strengths
 
-- Clean architecture and maintainable code
-- RESTful API design and integration
-- Authentication with Sanctum and JWT
-- Queue-based background jobs and payment workflows
-- Multi-tenant and SaaS-ready systems
-- API security, scalability, and performance optimization
+* Clean architecture & scalable systems
+* AI & workflow automation with **n8n**
+* REST APIs & third-party integrations
+* Laravel, Node.js & SaaS development
+* Secure, high-performance backend engineering
+* API security & performance optimization
+
 
 ---
 
 ## 🌱 Currently Exploring
 
-- AI integration
-- Domain-Driven Design (DDD)
-- Event-driven architecture
-- Microservices and cloud infrastructure
-- DevOps practices and deployment automation
-- System design and software architecture
+* Advanced AI agents & automation
+* n8n workflow automation
+* Domain-Driven Design (DDD)
+* Microservices & cloud architecture
+* DevOps & CI/CD automation
+* System design & scalable architecture
 
 ---
 

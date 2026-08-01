@@ -53,35 +53,21 @@ I also have experience leading development teams, reviewing code, mentoring deve
 
 ## 🛠️ Tech Stack
 
-### Backend
+| Category                      | Technologies & Skills                                                                     |
+| ----------------------------- | ----------------------------------------------------------------------------------------- |
+| **Languages**                 | `PHP` • `JavaScript` • `SQL`                                                              |
+| **Backend**                   | `Laravel` • `Node.js` • `REST APIs`                                                       |
+| **Frontend**                  | `React.js` • `Next.js` • `Vue.js`                                                         |
+| **UI & Styling**              | `Bootstrap` • `Tailwind CSS`                                                              |
+| **Database & Cache**          | `MySQL` • `Redis`                                                                         |
+| **Authentication & Security** | `JWT` • `Laravel Sanctum` • `API Authentication` • `Authorization`                        |
+| **Architecture**              | `System Design` • `Clean Architecture` • `Design Patterns` • `Repository-Service Pattern` |
+| **Performance**               | `Database Optimization` • `Caching` • `API Optimization`                                  |
+| **Testing**                   | `PHPUnit` • `Unit Testing` • `Feature Testing`                                            |
+| **AI & Automation**           | `n8n` • `Workflow Automation` • `LLM/API Integration`                                     |
+| **DevOps & Deployment**       | `Docker` • `Linux` • `VPS` • `cPanel`                                                     |
+| **Development Tools**         | `Git` • `GitHub`                                                                          |
 
-`PHP` • `Laravel` • `Node.js` • `REST APIs` • `JWT` • `Laravel Sanctum`
-
-### Frontend
-
-`JavaScript` • `React.js` • `Next.js` • `Vue.js` • `Bootstrap` • `Tailwind CSS`
-
-### Database & Caching
-
-`MySQL` • `SQL` • `Redis` • `Database Optimization` • `Caching`
-
-### Architecture & Engineering
-
-`System Design` • `Clean Architecture` • `Design Patterns` • `Repository-Service Pattern` • `API Architecture`
-
-### Testing
-
-`PHPUnit` • `Unit Testing` • `Feature Testing`
-
-### Tools & Deployment
-
-`Git` • `GitHub` • `Docker` • `Linux` • `VPS` • `cPanel`
-
-### Automation
-
-`n8n` • `Workflow Automation` • `LLM/API Integration`
-
----
 
 ## 💡 Core Expertise
 
@@ -186,7 +172,6 @@ I'm continuously improving my knowledge in:
 * Event-Driven Architecture
 * Microservices
 * AWS & Cloud Infrastructure
-* Docker & DevOps
 * CI/CD Automation
 * Distributed Systems
 * AI Agents & Automation
@@ -227,8 +212,8 @@ If you're a recruiter, engineering leader, founder, or fellow developer, feel fr
   <a href="https://www.linkedin.com/in/fahim27/"><strong>LinkedIn</strong></a>
   &nbsp; • &nbsp;
   <a href="mailto:fahimmbpi@gmail.com"><strong>Email</strong></a>
-  &nbsp; • &nbsp;
-  <a href="https://github.com/fahim27"><strong>GitHub</strong></a>
+  &nbsp; 
+  
 </p>
 
 ---
